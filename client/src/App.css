@@ -1,0 +1,95 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.top-left{
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  color: white;
+  text-transform: capitalize;
+  font-size: 1.2rem ;
+  font-weight: 600;
+}
+
+.tag-card{
+  color: #806a78;
+  margin: 10px 0 0 20px;
+}
+.tourName{
+  color: #6a6666;
+  font-size: 18px;
+  margin: 0 0 .8rem 0px;
+  font-weight: 500;
+}
+.tagErrMsg{
+  color: #f93154;
+  margin-top: 5px;
+  text-align: left;
+  font-size: 14px;
+}
+.header-text{
+  color: #606080;
+  font-weight: 500;
+  margin-top: 17px;
+  font-size: 17px;
+}
+h4{
+  overflow: hidden;
+  text-align: center;
+}
+h4:before,
+h4:after{
+  background-color: #000;
+  content: '';
+  display: inline-block;
+  height: 1px;
+  position: relative;
+  vertical-align: middle;
+  width: 50%;
+}
+h4:before{
+  right: 0.5em;
+  margin-left: -50%;
+}
+
+h4:after{
+  left: .05em;
+  margin-right: -50%;
+}
