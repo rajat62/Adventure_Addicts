@@ -67,4 +67,27 @@ The Adventure Addicts Platform is designed to provide users with a space to shar
   <li><a href="https://mdbootstrap.com/docs/react/">MDB React</a></li>
   <li><a href="https://www.npmjs.com/package/react-file-base64">React-filebase-64</a></li>
 </ul>
+<h2>Project Images</h2>
+<ul>
+  <li>
+    <p>Login Page</p>
+    <img src="https://github.com/rajat62/Adventure_Addicts/assets/107788563/d7d6c17b-1798-4e68-b11d-253bff647f97"/>
+  </li>
+  <li>
+    <p>Home Page</p>
+    <img src="https://github.com/rajat62/Adventure_Addicts/assets/107788563/2deb8a51-5360-494f-87e7-6ef0b1215680"/>
+  </li>
+  <li>
+    <p>Read More</p>
+    <img src="https://github.com/rajat62/Adventure_Addicts/assets/107788563/9b029f5b-ec2f-45d2-a0d4-d6742e7a1fe2"/>
+  </li>
+  <li>
+    <p>Dashboard</p>
+    <img src="https://github.com/rajat62/Adventure_Addicts/assets/107788563/5b0f91ea-45c5-4eb3-add6-1526b8d68059"/>
+  </li>
+  <li>
+    <p>Update Tour Post</p>
+    <img src="https://github.com/rajat62/Adventure_Addicts/assets/107788563/e9a3c913-9c79-484d-8614-84e82abc0c66"/>
+  </li>
+</ul>
 
