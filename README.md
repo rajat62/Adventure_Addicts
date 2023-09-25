@@ -40,3 +40,31 @@ The Adventure Addicts Platform is designed to provide users with a space to shar
 <h4>Purpose:</h4>
 <p>The Travel Experiences Sharing Platform aims to create a vibrant and dynamic community of travelers who can inspire, learn from, and support each other's adventures. 
   It serves as a valuable resource for individuals seeking travel recommendations and as a platform for documenting and sharing memorable journeys.</p>
+<h2>Build With</h2>
+<a href="https://legacy.reactjs.org/"><img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white&link=https://legacy.reactjs.org/" alt="React" /></a>
+<a href="https://redux-toolkit.js.org/"><img src="https://img.shields.io/badge/Redux%20Toolkit-purple?style=for-the-badge&logo=redux&logoColor=white&link=https://redux-toolkit.js.org/" alt="Redux Toolkit" /></a>
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=redux&logoColor=white&link=https://www.mongodb.com/" alt="MongoDB" /></a>
+<a href="https://redux-toolkit.js.org/"><img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white&link=https://redux-toolkit.js.org/" alt="Express" /></a>
+<h2>Getting Started</h2>
+<h5>Installation</h5>
+<ol>
+  <li>
+    <p>Clone the repo</p>
+    <p>https://github.com/rajat62/Tour_Application.git</p>
+  </li>
+  <li>
+    <p>Install Packages</p>
+    <p>npm install</p>
+  </li>
+  <li>
+    <p>Make a .env file and add credentails</p>
+  </li>
+</ol>
+<h5>Other Libraries Used</h5>
+<ul>
+  <li><a href="https://www.npmjs.com/package/moment">Moment</a></li>
+  <li><a href="https://www.npmjs.com/package/react-toastify">React Toastify</a></li>
+  <li><a href="https://mdbootstrap.com/docs/react/">MDB React</a></li>
+  <li><a href="https://www.npmjs.com/package/react-file-base64">React-filebase-64</a></li>
+</ul>
+
